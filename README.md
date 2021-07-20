@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @nishchalg1
 - 👀 I’m interested in bussiness analysis and trend forecastings
 - 🌱 I’m currently learning python and ML for forecasting
-- 📫 You can connect with using Linkedin- https://www.linkedin.com/in/nishchal-gupta-50857373/
+- 📫 You can connect with me using-- https://www.linkedin.com/in/nishchal-gupta-50857373/
